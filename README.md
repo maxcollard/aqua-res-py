@@ -9,7 +9,7 @@ Run `exportAllRes(allRes, includeCells, fileStem, exportDir)` where
 
 * `allRes` is the `allRes` array of structs loaded from the dataset,
 * `includeCells` is `false`,
-* `fileStem` is the desired base of the filename (appended by `_#` for each AQuA res struct),
+* `fileStem` is the desired base of the filename (appended by `_#.hdf5` for each AQuA res struct),
 * `exportDir` is the desired output directory for the HDF5 intermediates (which are very small).
 
 ### Python
