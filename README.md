@@ -21,3 +21,5 @@ This function generates HDF5 files with the following keys:
 * `pixelUM`: the image scale (microns per pixel),
 * `eventFrames`: the onset frame of each event,
 * `mark_x`: marks for each event from AQuA segmentation, for numerous `x`.
+
+See `events-demo.ipynb` for example usage.
